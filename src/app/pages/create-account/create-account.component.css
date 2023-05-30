@@ -1,0 +1,14 @@
+.create-account{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:500px;
+    margin-top:20px;
+    height: 80vh;
+    margin-left: 300px;
+    /* position: fixed; */
+    background-color: white;
+    opacity: 0.9;
+}

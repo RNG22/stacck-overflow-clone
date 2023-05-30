@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "email": "rutu@gmail.com",
+      "username": "rg",
+      "password": "rutuja",
+      "id": 1
+    },
+    {
+      "email": "prajkta@gmail.com",
+      "username": "prajkta",
+      "password": "prajkta",
+      "id": 2
+    },
+    {
+      "email": "abhi@gmail.com",
+      "username": "Abhi",
+      "password": "abhishek",
+      "id": 3
+    }
+  ],
+  "questions": [
+    {
+      "username": "sricharan",
+      "question": "This is my first question",
+      "solutions": [
+        {
+          "username": "sricharan",
+          "solution": "this is the solution",
+          "upvotes": [
+            3,
+            1
+          ],
+          "downvotes": []
+        },
+        {
+          "username": "sricharan",
+          "solution": "this is another solution",
+          "upvotes": [
+            3,
+            1
+          ],
+          "downvotes": []
+        },
+        {
+          "username": "rg",
+          "solution": "this is my solution",
+          "upvotes": [
+            3,
+            1
+          ],
+          "downvotes": []
+        },
+        {
+          "username": "prajkta",
+          "solution": "this my answer,I am prajkta",
+          "upvotes": [],
+          "downvotes": []
+        }
+      ],
+      "id": 1
+    },
+    {
+      "username": "sricharan",
+      "question": "This is the second question",
+      "solutions": [
+        {
+          "username": "rg",
+          "solution": "www",
+          "upvotes": [
+            3
+          ],
+          "downvotes": [
+            1
+          ]
+        },
+        {
+          "username": "rg",
+          "solution": "www",
+          "upvotes": [
+            3
+          ],
+          "downvotes": [
+            1
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "username": "sricharan",
+      "question": "this is my third question",
+      "solutions": [],
+      "id": 3
+    },
+    {
+      "username": "sricharan",
+      "question": "How to user services in anuglar?",
+      "solutions": [],
+      "id": 4
+    },
+    {
+      "username": "rg",
+      "question": "this is my question",
+      "solutions": [
+        {
+          "username": "rg",
+          "solution": "hh",
+          "upvotes": [
+            3,
+            4
+          ],
+          "downvotes": []
+        },
+        {
+          "username": "prajkta",
+          "solution": "hi",
+          "upvotes": [],
+          "downvotes": []
+        }
+      ],
+      "id": 5
+    },
+    {
+      "username": "prajkta",
+      "question": "who am I?",
+      "solutions": [],
+      "id": 6
+    },
+    {
+      "username": "rg",
+      "question": "how are you?",
+      "solutions": [],
+      "id": 7
+    }
+  ]
+}

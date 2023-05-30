@@ -1,0 +1,20 @@
+ .container{
+    display: flex;
+    flex-direction: column;
+    /* width: 100%;
+    margin: 100px; */
+    height: 80vh;
+    margin: 1rem;
+    background-color: darkgray;
+}
+.maincontent{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 30%;
+    
+   
+  cursor: pointer;
+  transition: 0.25s all ease-in-out;
+  transform: translate3d(0, 0, 0);
+  } 
